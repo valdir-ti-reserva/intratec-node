@@ -3,5 +3,6 @@
     "node_modules{,/**}",
     ".vscode{,/**}"
   ],
-  "appService.deploySubpath": "."
+  "appService.deploySubpath": ".",
+  "appService.defaultWebAppToDeploy": "/subscriptions/6a003094-4a82-443a-b84d-670638a58da5/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/api-intratec"
 }
