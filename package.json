@@ -4,8 +4,8 @@
   "main": "src/index.js",
   "license": "MIT",
   "scripts": {
-    "dev": "npx nodemon --ignore node_modules src/index.js",
-    "start": "node src/index.js"
+    "start": "node src/index.js",
+    "dev": "npx nodemon --ignore node_modules src/index.js"
   },
   "dependencies": {
     "bcryptjs": "^2.4.3",

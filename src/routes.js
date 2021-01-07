@@ -6,7 +6,7 @@ const routes = Router();
 // const UserController = require('./controllers/UserController');
 
 // const authMiddleware = require('./middlewares/Auth');
-routes.get('/', (req, res)=>{
+routes.get('/api', (req, res)=>{
   res.send('API Running!')
 });
 
