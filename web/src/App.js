@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          Intratec Tecnologia
+          Projeto Intratec Tecnologia
         </p>
       </header>
     </div>
